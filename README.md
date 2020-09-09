@@ -2,8 +2,8 @@
 <br/>
 <br/>
 This project consists of two files, 
-- PGA309_Sript.m (Matlab code which could be directly used to calaculate PGA309 register values)
-- esp-idf ('C' code for PGA309 written in Visual Code studio under the PlatforrmIO and esp-idf developement kit)
+- PGA309_Sript.m (Matlab code which could be directly used to calculate PGA309 register values)
+- esp-idf ('C' code for PGA309 written in Visual Studio Code under extension PlatformIO and esp-idf developement kit)
 <br/>
 Matlab script is very simple which could be opened in Matlab and run the script. The required specifications has to be mentioned beforehand in the Script. For example, bridge resistance, reference voltage, output voltage maximum and minimum range etc. 
 <br/>
@@ -20,3 +20,6 @@ PGA309 consists of seven different registers which needs to be updated according
 - register 2 (Fine Gain Adjust - Gain Adjust) <br/>
 - register 3 (Reference control and Linearization Register) <br/>
 - register 4 (PGA Coarse Offset Adjust and Gain Control) <br/>
+<br/>
+<br/>
+Other register updates will be added shortly. For more imformation regarding code and which register does which thing, please refer to pga309 uuser guide.
