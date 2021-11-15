@@ -1,3 +1,16 @@
+<p align="center">
+  <img src='images/pga309-esp32.png'>
+</p>
+
+## Contents
+  * [Introduction](#introduction)
+  * [Connection layout](#connection-layout)
+  * [Project Directory](#project-directory)
+  * [Supported Functionality](#functionality)
+  * [Resources](#resources)
+  * [Licenses](#licenses)
+
+## Introduction 
 **One Wire Programming interface for Programmable Gain Amplifier PGA309**
 <br/>
 <br/>
