@@ -91,7 +91,7 @@ static reg4_t reg4_data = {
 };
 ```
 
-PGA309 consists of seven registers. 4 out of 7 internal registers can be modified with this help of this library. Additional functionalities can be adapted according to the application requirements. The library supports:
+PGA309 consists of seven registers. 4 out of 7 internal registers can be modified with the help of this library. Additional functionalities can be adapted according to the application requirements. The library supports:
 <br>
 - register 1 (Fine Offset Adjust - Zero DAC) <br/>
 - register 2 (Fine Gain Adjust - Gain Adjust) <br/>
