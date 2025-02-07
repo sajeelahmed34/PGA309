@@ -16,7 +16,7 @@ The PGA309 is a smart programmable analog signal conditioner used with resistive
 <br>
 The calibration is done via `one-wire` digital serial interface or through a `Two-wire` industry standard connection. For more information please refer to the [pga309 User Guide](https://www.ti.com/lit/ug/sbou024b/sbou024b.pdf?ts=1637018226340&ref_url=https%253A%252F%252Fwww.google.com%252F)
 
-## Connection Layout: <a name="connection-layout"></a>
+## Wiring: <a name="connection-layout"></a>
 The library is written for esp32 so the following pin configuration needs to be taken into account. Any other microcontroller can also be interfaced with pga309, please refer to [supported functionality](#functionality) section. 
 
 | ESP32 | PGA309 |
